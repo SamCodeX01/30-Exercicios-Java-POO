@@ -1,7 +1,3 @@
-# Lista-30-Exercicios-Java-POO
-
-##Exercícios simples em Java para treinar o básico de POO
-
 1. Escreva um programa Java para criar uma classe chamada "Pessoa" com os atributos nome e idade. Crie duas instâncias da classe "Pessoa", defina seus atributos usando o construtor e imprima o nome e a idade.
 
 2. Escreva um programa Java para criar uma classe chamada "Cachorro" com um nome e um atributo de raça. Crie duas instâncias da classe "Cachorro", defina seus atributos usando o construtor e modifique os atributos usando os métodos setter e imprima os valores atualizados.
